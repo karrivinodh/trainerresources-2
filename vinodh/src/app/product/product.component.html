@@ -1,0 +1,23 @@
+<h3>Products List fetched from .NET Core Web API</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Available Qty</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let dataItem of ProductsList">
+            <td>{{dataItem.ProductID}}</td>
+            <td>{{dataItem.ProductName}}</td>
+            <td>{{dataItem.Price}}</td>
+            <td>{{dataItem.AvailableQty}}</td>
+            
+        </tr>
+    </tbody>
+</table>
+
