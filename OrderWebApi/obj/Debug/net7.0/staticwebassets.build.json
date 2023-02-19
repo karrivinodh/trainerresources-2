@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "vtHUwJsjGRWMEyOz4HJhllLw/QBRL0wjj6BXhiv2nsE=",
+  "Source": "OrderWebApi",
+  "BasePath": "_content/OrderWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\AZURE ICT\\MenuItemWebApi\\MenuItemWebApi.csproj",
+      "Version": 2,
+      "Source": "MenuItemWebApi",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
