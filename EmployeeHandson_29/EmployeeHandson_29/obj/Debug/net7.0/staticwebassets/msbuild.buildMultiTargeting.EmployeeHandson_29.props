@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmployeeHandson_29.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HandsonAPI2.props" />
+</Project>

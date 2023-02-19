@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApi_29_Handson.props" />
+</Project>

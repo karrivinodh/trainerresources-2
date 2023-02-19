@@ -1,0 +1,7 @@
+C:\Users\vinodh\source\repos\EcommerceWebsite\EcommerceWebsite\obj\Debug\net7.0\EcommerceWebsite.csproj.AssemblyReference.cache
+C:\Users\vinodh\source\repos\EcommerceWebsite\EcommerceWebsite\obj\Debug\net7.0\EcommerceWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinodh\source\repos\EcommerceWebsite\EcommerceWebsite\obj\Debug\net7.0\EcommerceWebsite.AssemblyInfoInputs.cache
+C:\Users\vinodh\source\repos\EcommerceWebsite\EcommerceWebsite\obj\Debug\net7.0\EcommerceWebsite.AssemblyInfo.cs
+C:\Users\vinodh\source\repos\EcommerceWebsite\EcommerceWebsite\obj\Debug\net7.0\EcommerceWebsite.csproj.CoreCompileInputs.cache
+C:\Users\vinodh\source\repos\EcommerceWebsite\EcommerceWebsite\obj\Debug\net7.0\EcommerceWebsite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinodh\source\repos\EcommerceWebsite\EcommerceWebsite\obj\Debug\net7.0\EcommerceWebsite.MvcApplicationPartsAssemblyInfo.cache

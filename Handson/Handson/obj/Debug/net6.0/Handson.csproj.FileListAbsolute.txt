@@ -1,0 +1,5 @@
+C:\Users\vinodh\source\repos\Handson\Handson\obj\Debug\net6.0\Handson.csproj.AssemblyReference.cache
+C:\Users\vinodh\source\repos\Handson\Handson\obj\Debug\net6.0\Handson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinodh\source\repos\Handson\Handson\obj\Debug\net6.0\Handson.AssemblyInfoInputs.cache
+C:\Users\vinodh\source\repos\Handson\Handson\obj\Debug\net6.0\Handson.AssemblyInfo.cs
+C:\Users\vinodh\source\repos\Handson\Handson\obj\Debug\net6.0\Handson.csproj.CoreCompileInputs.cache

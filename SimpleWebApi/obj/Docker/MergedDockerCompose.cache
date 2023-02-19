@@ -1,0 +1,18 @@
+name: dockercompose575740395062901142
+services:
+  simplewebapi:
+    build:
+      context: C:\Users\vinodh\source\repos\SimpleWebApi
+      dockerfile: SimpleWebApi\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: simplewebapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose575740395062901142_default

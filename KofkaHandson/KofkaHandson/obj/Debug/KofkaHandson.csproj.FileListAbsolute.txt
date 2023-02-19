@@ -1,0 +1,13 @@
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\bin\Debug\KofkaHandson.exe.config
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\bin\Debug\KofkaHandson.exe
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\bin\Debug\KofkaHandson.pdb
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\bin\Debug\kafka-net.dll
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\obj\Debug\KofkaHandson.csproj.AssemblyReference.cache
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\obj\Debug\KofkaHandson.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\obj\Debug\KofkaHandson.Form1.resources
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\obj\Debug\KofkaHandson.Properties.Resources.resources
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\obj\Debug\KofkaHandson.csproj.GenerateResource.cache
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\obj\Debug\KofkaHandson.csproj.CoreCompileInputs.cache
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\obj\Debug\KofkaHandson.csproj.CopyComplete
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\obj\Debug\KofkaHandson.exe
+C:\Users\vinodh\source\repos\KofkaHandson\KofkaHandson\obj\Debug\KofkaHandson.pdb

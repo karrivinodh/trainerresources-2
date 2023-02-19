@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "1IgLPeZpRcQQJuiTW/beyIrmDfa/EisaDr7Co4oMiIvJJACKoUFAtI1tyj61k3j2A/Aic6vgp851ZOFyjNm5ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinodh\\source\\repos\\Handson\\Handson\\Handson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinodh\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\newtonsoft.json\\7.0.1\\newtonsoft.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\paypalcoresdk\\1.7.1\\paypalcoresdk.1.7.1.nupkg.sha512",
+    "C:\\Users\\vinodh\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 7.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PayPalCoreSDK 1.7.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PayPalCoreSDK",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
